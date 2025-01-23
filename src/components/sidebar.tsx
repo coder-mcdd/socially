@@ -8,7 +8,7 @@ import Link from "next/link";
 import { Avatar, AvatarImage } from "./ui/avatar";
 import { Separator } from "./ui/separator";
 import { LinkIcon, MapPinIcon } from "lucide-react";
-import { getUserByClerkId } from "@/app/actions/user.action";
+import { getUserByClerkId } from "@/actions/user.action";
 
 async function Sidebar() {
   const authUser = await currentUser();

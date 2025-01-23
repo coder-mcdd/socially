@@ -12,3 +12,4 @@ A social media platform for the modern age.
 - [Shadcn](https://ui.shadcn.com/)
 - [Neon](https://console.neon.tech/app/projects)
 - [Prisma](https://www.prisma.io/)
+- [Uploadthing](https://docs.uploadthing.com/)

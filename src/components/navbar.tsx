@@ -1,5 +1,4 @@
 /** @format */
-
 import Link from "next/link";
 import DesktopNavbar from "./desktop-navbar";
 import MobileNavbar from "./mobile-navbar";

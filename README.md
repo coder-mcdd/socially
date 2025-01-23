@@ -10,3 +10,5 @@ A social media platform for the modern age.
 - [Tailwind CSS](https://tailwindcss.com)
 - [Clerk](https://clerk.com/)
 - [Shadcn](https://ui.shadcn.com/)
+- [Neon](https://console.neon.tech/app/projects)
+- [Prisma](https://www.prisma.io/)

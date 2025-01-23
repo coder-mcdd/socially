@@ -24,7 +24,7 @@ export async function syncUser() {
     const dbUser = await prisma.user.create({
       data: {
         clerkId: userId,
-        name: `${user.firstName || ""} ${user.lastName || ""}`,
+        name: `${user.firstName || "dev"} ${user.lastName || "mcdd"}`,
         username:
           user.username ?? user.emailAddresses[0].emailAddress.split("@")[0],
         email: user.emailAddresses[0].emailAddress,
